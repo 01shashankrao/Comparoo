@@ -55,25 +55,25 @@ export default function About() {
           <div className="team-grid">
             <div className="team-member">
               <div className="avatar bg-orange"></div>
-              <h4 className="member-name">Alex Johnson</h4>
+              <h4 className="member-name">Shashank Rao</h4>
               <span className="member-role">Founder & CEO</span>
               <p className="member-desc">The visionary leading the charge to simplify decision-making.</p>
             </div>
             <div className="team-member">
               <div className="avatar bg-purple"></div>
-              <h4 className="member-name">Maria Garcia</h4>
+              <h4 className="member-name">Shashank Rao</h4>
               <span className="member-role">Lead Engineer</span>
               <p className="member-desc">The architect of our platform's robust and scalable infrastructure.</p>
             </div>
             <div className="team-member">
               <div className="avatar bg-yellow"></div>
-              <h4 className="member-name">David Chen</h4>
+              <h4 className="member-name">Shashank Rao</h4>
               <span className="member-role">Head of Product</span>
               <p className="member-desc">Ensuring every feature delivers maximum value and usability.</p>
             </div>
             <div className="team-member">
               <div className="avatar bg-pink"></div>
-              <h4 className="member-name">Emily White</h4>
+              <h4 className="member-name">Shashank Rao</h4>
               <span className="member-role">UX/UI Designer</span>
               <p className="member-desc">Crafting the beautiful and intuitive interface you love to use.</p>
             </div>
@@ -83,7 +83,7 @@ export default function About() {
 
       <footer className="footer">
         <div className="footer-left">
-          © 2024 Comparoo. All rights reserved.
+          © 2025 Comparoo. All rights reserved.
         </div>
         <div className="footer-right">
           <a href="#">Help</a>

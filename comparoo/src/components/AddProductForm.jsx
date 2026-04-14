@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { saveProduct } from "../services/user";
+import { saveProduct } from "../Services/user";
 
 export default function AddProductfrom(){
   const [title,setTitle] = useState("");

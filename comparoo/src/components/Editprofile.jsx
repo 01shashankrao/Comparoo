@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { updateProfile } from "../services/user";
+import { updateProfile } from "../Services/user";
 
 export default function EditProfile(){
   const storedEmail = localStorage.getItem("email");
