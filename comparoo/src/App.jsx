@@ -8,7 +8,7 @@ import Profile from "./components/Profile";
 import Settings from "./components/Settings";
 import ShareCard from "./components/ShareCard";
 import AddProductForm from "./components/AddProductForm";
-import EditProfile from "./components/EditProfile";
+import Editprofile from "./components/Editprofile";
 import ComparePage from "./components/ComparePage";
 import ProductCard from "./components/ProductCard"; // ✅ correct import
 
@@ -35,7 +35,7 @@ export default function App() {
       <Route path="/settings" element={<Settings />} />
       <Route path="/share" element={<ShareCard />} />
       <Route path="/add-product" element={<AddProductForm />} />
-      <Route path="/edit-profile" element={<EditProfile />} />
+      <Route path="/edit-profile" element={<Editprofile />} />
       <Route path="/compare" element={<ComparePage products={products} />} />
 
       {/* ✅ safe route */}
